@@ -1,0 +1,150 @@
+F:\Home Gridview app\Excel reader\Excel reader\bin\Debug\Excel reader.exe.config
+F:\Home Gridview app\Excel reader\Excel reader\bin\Debug\Excel reader.exe
+F:\Home Gridview app\Excel reader\Excel reader\bin\Debug\Excel reader.pdb
+F:\Home Gridview app\Excel reader\Excel reader\obj\Debug\Excel reader.csprojAssemblyReference.cache
+F:\Home Gridview app\Excel reader\Excel reader\obj\Debug\Excel_reader.Form1.resources
+F:\Home Gridview app\Excel reader\Excel reader\obj\Debug\Excel_reader.Properties.Resources.resources
+F:\Home Gridview app\Excel reader\Excel reader\obj\Debug\Excel reader.csproj.GenerateResource.cache
+F:\Home Gridview app\Excel reader\Excel reader\obj\Debug\Excel reader.csproj.CoreCompileInputs.cache
+F:\Home Gridview app\Excel reader\Excel reader\obj\Debug\Excel reader.exe
+F:\Home Gridview app\Excel reader\Excel reader\obj\Debug\Excel reader.pdb
+D:\Home Gridview app\Excel reader\Excel reader\bin\Debug\Excel reader.exe.config
+D:\Home Gridview app\Excel reader\Excel reader\obj\Debug\Excel reader.exe
+D:\Home Gridview app\Excel reader\Excel reader\obj\Debug\Excel reader.pdb
+D:\Home Gridview app\Excel reader\Excel reader\bin\Debug\Excel reader.exe
+D:\Home Gridview app\Excel reader\Excel reader\bin\Debug\Excel reader.pdb
+D:\Home Gridview app\Excel reader\Excel reader\obj\Debug\Excel reader.csprojResolveAssemblyReference.cache
+D:\Home Gridview app\Excel reader\Excel reader\obj\Debug\Excel_reader.Form1.resources
+D:\Home Gridview app\Excel reader\Excel reader\obj\Debug\Excel_reader.Properties.Resources.resources
+D:\Home Gridview app\Excel reader\Excel reader\obj\Debug\Excel reader.csproj.GenerateResource.Cache
+D:\Home Gridview app\Excel reader\Excel reader\bin\Debug\ClosedXML.dll
+D:\Home Gridview app\Excel reader\Excel reader\bin\Debug\DocumentFormat.OpenXml.dll
+D:\Home Gridview app\Excel reader\Excel reader\bin\Debug\ExcelNumberFormat.dll
+D:\Home Gridview app\Excel reader\Excel reader\bin\Debug\FastMember.dll
+D:\Home Gridview app\Excel reader\Excel reader\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\Home Gridview app\Excel reader\Excel reader\bin\Debug\System.IO.Packaging.dll
+D:\Home Gridview app\Excel reader\Excel reader\bin\Debug\ClosedXML.pdb
+D:\Home Gridview app\Excel reader\Excel reader\bin\Debug\ClosedXML.xml
+D:\Home Gridview app\Excel reader\Excel reader\bin\Debug\DocumentFormat.OpenXml.xml
+D:\Home Gridview app\Excel reader\Excel reader\bin\Debug\ExcelNumberFormat.xml
+D:\Home Gridview app\Excel reader\Excel reader\obj\Debug\Excel reader.csproj.ResolveComReference.cache
+F:\Home Gridview app\Excel reader\Excel reader\bin\Debug\ClosedXML.dll
+F:\Home Gridview app\Excel reader\Excel reader\bin\Debug\DocumentFormat.OpenXml.dll
+F:\Home Gridview app\Excel reader\Excel reader\bin\Debug\ExcelNumberFormat.dll
+F:\Home Gridview app\Excel reader\Excel reader\bin\Debug\FastMember.dll
+F:\Home Gridview app\Excel reader\Excel reader\bin\Debug\System.IO.FileSystem.Primitives.dll
+F:\Home Gridview app\Excel reader\Excel reader\bin\Debug\System.IO.Packaging.dll
+F:\Home Gridview app\Excel reader\Excel reader\bin\Debug\ClosedXML.pdb
+F:\Home Gridview app\Excel reader\Excel reader\bin\Debug\ClosedXML.xml
+F:\Home Gridview app\Excel reader\Excel reader\bin\Debug\DocumentFormat.OpenXml.xml
+F:\Home Gridview app\Excel reader\Excel reader\bin\Debug\ExcelNumberFormat.xml
+F:\Home Gridview app\Excel reader\Excel reader\obj\Debug\Excel reader.csproj.ResolveComReference.cache
+F:\Home Gridview app\Excel reader\Excel reader\obj\Debug\Excel reader.csproj.CopyComplete
+C:\Users\Knight--20\Desktop\Working Project\Home Gridview app\Excel reader\Excel reader\bin\Debug\Excel reader.exe.config
+C:\Users\Knight--20\Desktop\Working Project\Home Gridview app\Excel reader\Excel reader\bin\Debug\Excel reader.exe
+C:\Users\Knight--20\Desktop\Working Project\Home Gridview app\Excel reader\Excel reader\bin\Debug\Excel reader.pdb
+C:\Users\Knight--20\Desktop\Working Project\Home Gridview app\Excel reader\Excel reader\bin\Debug\ClosedXML.dll
+C:\Users\Knight--20\Desktop\Working Project\Home Gridview app\Excel reader\Excel reader\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Knight--20\Desktop\Working Project\Home Gridview app\Excel reader\Excel reader\bin\Debug\ExcelNumberFormat.dll
+C:\Users\Knight--20\Desktop\Working Project\Home Gridview app\Excel reader\Excel reader\bin\Debug\FastMember.dll
+C:\Users\Knight--20\Desktop\Working Project\Home Gridview app\Excel reader\Excel reader\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Knight--20\Desktop\Working Project\Home Gridview app\Excel reader\Excel reader\bin\Debug\System.IO.Packaging.dll
+C:\Users\Knight--20\Desktop\Working Project\Home Gridview app\Excel reader\Excel reader\bin\Debug\ClosedXML.pdb
+C:\Users\Knight--20\Desktop\Working Project\Home Gridview app\Excel reader\Excel reader\bin\Debug\ClosedXML.xml
+C:\Users\Knight--20\Desktop\Working Project\Home Gridview app\Excel reader\Excel reader\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Knight--20\Desktop\Working Project\Home Gridview app\Excel reader\Excel reader\bin\Debug\ExcelNumberFormat.xml
+C:\Users\Knight--20\Desktop\Working Project\Home Gridview app\Excel reader\Excel reader\obj\Debug\Excel reader.csprojAssemblyReference.cache
+C:\Users\Knight--20\Desktop\Working Project\Home Gridview app\Excel reader\Excel reader\obj\Debug\Excel reader.csproj.ResolveComReference.cache
+C:\Users\Knight--20\Desktop\Working Project\Home Gridview app\Excel reader\Excel reader\obj\Debug\Excel_reader.Form1.resources
+C:\Users\Knight--20\Desktop\Working Project\Home Gridview app\Excel reader\Excel reader\obj\Debug\Excel_reader.Properties.Resources.resources
+C:\Users\Knight--20\Desktop\Working Project\Home Gridview app\Excel reader\Excel reader\obj\Debug\Excel reader.csproj.GenerateResource.cache
+C:\Users\Knight--20\Desktop\Working Project\Home Gridview app\Excel reader\Excel reader\obj\Debug\Excel reader.csproj.CoreCompileInputs.cache
+C:\Users\Knight--20\Desktop\Working Project\Home Gridview app\Excel reader\Excel reader\obj\Debug\Excel reader.csproj.CopyComplete
+C:\Users\Knight--20\Desktop\Working Project\Home Gridview app\Excel reader\Excel reader\obj\Debug\Excel reader.exe
+C:\Users\Knight--20\Desktop\Working Project\Home Gridview app\Excel reader\Excel reader\obj\Debug\Excel reader.pdb
+C:\Users\Knight--20\Desktop\Working Project\Testing\Home Gridview app\Excel reader\Excel reader\obj\Debug\Excel reader.csprojAssemblyReference.cache
+C:\Users\Knight--20\Desktop\Working Project\Testing\Home Gridview app\Excel reader\Excel reader\obj\Debug\Excel reader.csproj.ResolveComReference.cache
+C:\Users\Knight--20\Desktop\Working Project\Testing\Home Gridview app\Excel reader\Excel reader\obj\Debug\Excel_reader.Form1.resources
+C:\Users\Knight--20\Desktop\Working Project\Testing\Home Gridview app\Excel reader\Excel reader\obj\Debug\Excel_reader.Properties.Resources.resources
+C:\Users\Knight--20\Desktop\Working Project\Testing\Home Gridview app\Excel reader\Excel reader\obj\Debug\Excel reader.csproj.GenerateResource.cache
+C:\Users\Knight--20\Desktop\Working Project\Testing\Home Gridview app\Excel reader\Excel reader\obj\Debug\Excel reader.csproj.CoreCompileInputs.cache
+C:\Users\Knight--20\Desktop\Working Project\Testing\Home Gridview app\Excel reader\Excel reader\obj\Debug\Excel reader.exe
+C:\Users\Knight--20\Desktop\Working Project\Testing\Home Gridview app\Excel reader\Excel reader\obj\Debug\Excel reader.pdb
+C:\Users\Knight--20\Desktop\Working Project\Testing\Home Gridview app\Excel reader\Excel reader\bin\Debug\Excel reader.exe.config
+C:\Users\Knight--20\Desktop\Working Project\Testing\Home Gridview app\Excel reader\Excel reader\bin\Debug\Excel reader.exe
+C:\Users\Knight--20\Desktop\Working Project\Testing\Home Gridview app\Excel reader\Excel reader\bin\Debug\Excel reader.pdb
+C:\Users\Knight--20\Desktop\Working Project\Testing\Home Gridview app\Excel reader\Excel reader\bin\Debug\ClosedXML.dll
+C:\Users\Knight--20\Desktop\Working Project\Testing\Home Gridview app\Excel reader\Excel reader\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Knight--20\Desktop\Working Project\Testing\Home Gridview app\Excel reader\Excel reader\bin\Debug\ExcelNumberFormat.dll
+C:\Users\Knight--20\Desktop\Working Project\Testing\Home Gridview app\Excel reader\Excel reader\bin\Debug\FastMember.dll
+C:\Users\Knight--20\Desktop\Working Project\Testing\Home Gridview app\Excel reader\Excel reader\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Knight--20\Desktop\Working Project\Testing\Home Gridview app\Excel reader\Excel reader\bin\Debug\System.IO.Packaging.dll
+C:\Users\Knight--20\Desktop\Working Project\Testing\Home Gridview app\Excel reader\Excel reader\bin\Debug\ClosedXML.pdb
+C:\Users\Knight--20\Desktop\Working Project\Testing\Home Gridview app\Excel reader\Excel reader\bin\Debug\ClosedXML.xml
+C:\Users\Knight--20\Desktop\Working Project\Testing\Home Gridview app\Excel reader\Excel reader\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Knight--20\Desktop\Working Project\Testing\Home Gridview app\Excel reader\Excel reader\bin\Debug\ExcelNumberFormat.xml
+C:\Users\Knight--20\Desktop\Working Project\Testing\Home Gridview app\Excel reader\Excel reader\obj\Debug\Excel reader.csproj.CopyComplete
+D:\Project fully working\Testing\Home Gridview app\Excel reader\Excel reader\bin\Debug\Excel reader.exe.config
+D:\Project fully working\Testing\Home Gridview app\Excel reader\Excel reader\obj\Debug\Excel reader.csproj.ResolveComReference.cache
+D:\Project fully working\Testing\Home Gridview app\Excel reader\Excel reader\obj\Debug\Excel reader.exe
+D:\Project fully working\Testing\Home Gridview app\Excel reader\Excel reader\obj\Debug\Excel reader.pdb
+D:\Project fully working\Testing\Home Gridview app\Excel reader\Excel reader\bin\Debug\Excel reader.exe
+D:\Project fully working\Testing\Home Gridview app\Excel reader\Excel reader\bin\Debug\Excel reader.pdb
+D:\Project fully working\Testing\Home Gridview app\Excel reader\Excel reader\bin\Debug\ClosedXML.dll
+D:\Project fully working\Testing\Home Gridview app\Excel reader\Excel reader\bin\Debug\DocumentFormat.OpenXml.dll
+D:\Project fully working\Testing\Home Gridview app\Excel reader\Excel reader\bin\Debug\ExcelNumberFormat.dll
+D:\Project fully working\Testing\Home Gridview app\Excel reader\Excel reader\bin\Debug\FastMember.dll
+D:\Project fully working\Testing\Home Gridview app\Excel reader\Excel reader\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\Project fully working\Testing\Home Gridview app\Excel reader\Excel reader\bin\Debug\System.IO.Packaging.dll
+D:\Project fully working\Testing\Home Gridview app\Excel reader\Excel reader\bin\Debug\ClosedXML.pdb
+D:\Project fully working\Testing\Home Gridview app\Excel reader\Excel reader\bin\Debug\ClosedXML.xml
+D:\Project fully working\Testing\Home Gridview app\Excel reader\Excel reader\bin\Debug\DocumentFormat.OpenXml.xml
+D:\Project fully working\Testing\Home Gridview app\Excel reader\Excel reader\bin\Debug\ExcelNumberFormat.xml
+D:\Project fully working\Testing\Home Gridview app\Excel reader\Excel reader\obj\Debug\Excel reader.csprojResolveAssemblyReference.cache
+D:\Project fully working\Testing\Home Gridview app\Excel reader\Excel reader\obj\Debug\Excel_reader.Form1.resources
+D:\Project fully working\Testing\Home Gridview app\Excel reader\Excel reader\obj\Debug\Excel_reader.Properties.Resources.resources
+D:\Project fully working\Testing\Home Gridview app\Excel reader\Excel reader\obj\Debug\Excel reader.csproj.GenerateResource.Cache
+D:\Working Projects\EDI file Creator\Excel reader\Excel reader\bin\Debug\Excel reader.exe.config
+D:\Working Projects\EDI file Creator\Excel reader\Excel reader\obj\Debug\Excel reader.csproj.ResolveComReference.cache
+D:\Working Projects\EDI file Creator\Excel reader\Excel reader\obj\Debug\Excel reader.exe
+D:\Working Projects\EDI file Creator\Excel reader\Excel reader\obj\Debug\Excel reader.pdb
+D:\Working Projects\EDI file Creator\Excel reader\Excel reader\bin\Debug\Excel reader.exe
+D:\Working Projects\EDI file Creator\Excel reader\Excel reader\bin\Debug\Excel reader.pdb
+D:\Working Projects\EDI file Creator\Excel reader\Excel reader\bin\Debug\ClosedXML.dll
+D:\Working Projects\EDI file Creator\Excel reader\Excel reader\bin\Debug\DocumentFormat.OpenXml.dll
+D:\Working Projects\EDI file Creator\Excel reader\Excel reader\bin\Debug\ExcelNumberFormat.dll
+D:\Working Projects\EDI file Creator\Excel reader\Excel reader\bin\Debug\FastMember.dll
+D:\Working Projects\EDI file Creator\Excel reader\Excel reader\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\Working Projects\EDI file Creator\Excel reader\Excel reader\bin\Debug\System.IO.Packaging.dll
+D:\Working Projects\EDI file Creator\Excel reader\Excel reader\bin\Debug\ClosedXML.pdb
+D:\Working Projects\EDI file Creator\Excel reader\Excel reader\bin\Debug\ClosedXML.xml
+D:\Working Projects\EDI file Creator\Excel reader\Excel reader\bin\Debug\DocumentFormat.OpenXml.xml
+D:\Working Projects\EDI file Creator\Excel reader\Excel reader\bin\Debug\ExcelNumberFormat.xml
+D:\Working Projects\EDI file Creator\Excel reader\Excel reader\obj\Debug\Excel reader.csprojResolveAssemblyReference.cache
+D:\Working Projects\EDI file Creator\Excel reader\Excel reader\obj\Debug\Excel_reader.Form1.resources
+D:\Working Projects\EDI file Creator\Excel reader\Excel reader\obj\Debug\Excel_reader.Properties.Resources.resources
+D:\Working Projects\EDI file Creator\Excel reader\Excel reader\obj\Debug\Excel reader.csproj.GenerateResource.Cache
+D:\NEW working\EDI file Creator\Excel reader\Excel reader\obj\Debug\Excel reader.csproj.ResolveComReference.cache
+D:\NEW working\EDI file Creator\Excel reader\Excel reader\bin\Debug\ClosedXML.dll
+D:\NEW working\EDI file Creator\Excel reader\Excel reader\bin\Debug\DocumentFormat.OpenXml.dll
+D:\NEW working\EDI file Creator\Excel reader\Excel reader\bin\Debug\ExcelNumberFormat.dll
+D:\NEW working\EDI file Creator\Excel reader\Excel reader\bin\Debug\FastMember.dll
+D:\NEW working\EDI file Creator\Excel reader\Excel reader\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\NEW working\EDI file Creator\Excel reader\Excel reader\bin\Debug\System.IO.Packaging.dll
+D:\NEW working\EDI file Creator\Excel reader\Excel reader\bin\Debug\ClosedXML.pdb
+D:\NEW working\EDI file Creator\Excel reader\Excel reader\bin\Debug\ClosedXML.xml
+D:\NEW working\EDI file Creator\Excel reader\Excel reader\bin\Debug\DocumentFormat.OpenXml.xml
+D:\NEW working\EDI file Creator\Excel reader\Excel reader\bin\Debug\ExcelNumberFormat.xml
+D:\NEW working\EDI file Creator\Excel reader\Excel reader\obj\Debug\Excel reader.csprojResolveAssemblyReference.cache
+D:\NEW working\EDI file Creator\Excel reader\Excel reader\obj\Debug\Excel_reader.Form1.resources
+D:\NEW working\EDI file Creator\Excel reader\Excel reader\obj\Debug\Excel_reader.Properties.Resources.resources
+D:\NEW working\EDI file Creator\Excel reader\Excel reader\obj\Debug\Excel reader.csproj.GenerateResource.Cache
+D:\NEW working\EDI file Creator\Excel reader\Excel reader\bin\Debug\EDI Creator.exe.config
+D:\NEW working\EDI file Creator\Excel reader\Excel reader\bin\Debug\EDI Creator.exe
+D:\NEW working\EDI file Creator\Excel reader\Excel reader\bin\Debug\EDI Creator.pdb
+D:\NEW working\EDI file Creator\Excel reader\Excel reader\obj\Debug\EDI Creator.exe
+D:\NEW working\EDI file Creator\Excel reader\Excel reader\obj\Debug\EDI Creator.pdb
+F:\NEW working\EDI file Creator\Excel reader\Excel reader\bin\Debug\EDI Creator.exe.config
+F:\NEW working\EDI file Creator\Excel reader\Excel reader\obj\Debug\Excel reader.csproj.ResolveComReference.cache
+F:\NEW working\EDI file Creator\Excel reader\Excel reader\obj\Debug\EDI Creator.exe
+F:\NEW working\EDI file Creator\Excel reader\Excel reader\obj\Debug\EDI Creator.pdb

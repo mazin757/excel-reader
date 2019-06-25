@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataSet1" targetNamespace="http://tempuri.org/DataSet11.xsd" xmlns:mstns="http://tempuri.org/DataSet11.xsd" xmlns="http://tempuri.org/DataSet11.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="Dataconnection" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="Dataconnection (Settings)" PropertyReference="ApplicationSettings.Excel_reader.Properties.Settings.GlobalReference.Default.Dataconnection" Provider="System.Data.Odbc" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="'Export Worksheet$'TableAdapter" GeneratorDataComponentClassName="_Export_Worksheet__TableAdapter" Name="'Export Worksheet$'" UserDataComponentName="'Export Worksheet$'TableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="Dataconnection (Settings)" DbObjectName="`C:\Users\ali.alkhazal\Desktop\VAT#base.XLSX`.`'Export Worksheet$'`" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="true" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT `PROVIDER CODE`, `CCHI NO#`, `VAT NO#`, `PROVIDER_NAME` FROM `'Export Worksheet$'`</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings />
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataSet1" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="DataSet1" msprop:Generator_UserDSName="DataSet1">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="_x0027_Export_x0020_Worksheet_x0024__x0027_" msprop:Generator_TableClassName="__Export_Worksheet__DataTable" msprop:Generator_TableVarName="_table_Export_Worksheet__" msprop:Generator_TablePropName="__Export_Worksheet__" msprop:Generator_RowDeletingName="__Export_Worksheet__RowDeleting" msprop:Generator_RowChangingName="__Export_Worksheet__RowChanging" msprop:Generator_RowEvHandlerName="__Export_Worksheet__RowChangeEventHandler" msprop:Generator_RowDeletedName="__Export_Worksheet__RowDeleted" msprop:Generator_UserTableName="'Export Worksheet$'" msprop:Generator_RowChangedName="__Export_Worksheet__RowChanged" msprop:Generator_RowEvArgName="__Export_Worksheet__RowChangeEvent" msprop:Generator_RowClassName="__Export_Worksheet__Row">
+          <xs:complexType>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
